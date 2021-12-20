@@ -1,0 +1,6 @@
+C:\Users\37544\Desktop\Work\053505\second_course\CSharp\CSharp_053505_Gerashchenko_Lab6\CSharp_053505_Gerashchenko_Lab6\obj\Debug\CSharp_053505_Gerashchenko_Lab6.csprojAssemblyReference.cache
+C:\Users\37544\Desktop\Work\053505\second_course\CSharp\CSharp_053505_Gerashchenko_Lab6\CSharp_053505_Gerashchenko_Lab6\obj\Debug\CSharp_053505_Gerashchenko_Lab6.csproj.CoreCompileInputs.cache
+C:\Users\37544\Desktop\Work\053505\second_course\CSharp\CSharp_053505_Gerashchenko_Lab6\CSharp_053505_Gerashchenko_Lab6\bin\Debug\CSharp_053505_Gerashchenko_Lab6.exe
+C:\Users\37544\Desktop\Work\053505\second_course\CSharp\CSharp_053505_Gerashchenko_Lab6\CSharp_053505_Gerashchenko_Lab6\bin\Debug\CSharp_053505_Gerashchenko_Lab6.pdb
+C:\Users\37544\Desktop\Work\053505\second_course\CSharp\CSharp_053505_Gerashchenko_Lab6\CSharp_053505_Gerashchenko_Lab6\obj\Debug\CSharp_053505_Gerashchenko_Lab6.exe
+C:\Users\37544\Desktop\Work\053505\second_course\CSharp\CSharp_053505_Gerashchenko_Lab6\CSharp_053505_Gerashchenko_Lab6\obj\Debug\CSharp_053505_Gerashchenko_Lab6.pdb
