@@ -108,7 +108,7 @@ namespace CSharp_053505_Gerashchenko_Lab6.Collections
 
         private void RemoveByPointer(CustomCollectionNode found)
         {
-            if (found.PreviousNode == null) // it is first element 
+            if (found.PreviousNode == null)
             {
                 _firstItem = _firstItem.NextNode;
                 if (_firstItem != null)
@@ -116,7 +116,7 @@ namespace CSharp_053505_Gerashchenko_Lab6.Collections
                 if (_size <= 2)
                     _lastItem = _firstItem;
             }
-            else if (found.NextNode == null) // it is last element
+            else if (found.NextNode == null)
             {
                 _lastItem = _lastItem.PreviousNode;
                 if (_lastItem != null)
