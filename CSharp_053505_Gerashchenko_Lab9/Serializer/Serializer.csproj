@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CSharp_053505_Gerashchenko_Lab9.Domain\CSharp_053505_Gerashchenko_Lab9.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

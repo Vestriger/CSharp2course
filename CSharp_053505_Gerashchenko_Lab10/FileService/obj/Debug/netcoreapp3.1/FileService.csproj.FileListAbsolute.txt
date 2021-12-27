@@ -1,0 +1,9 @@
+C:\Users\37544\Desktop\Work\053505\second_course\CSharp\CSharp_053505_Gerashchenko_Lab10\FileService\bin\Debug\netcoreapp3.1\FileService.deps.json
+C:\Users\37544\Desktop\Work\053505\second_course\CSharp\CSharp_053505_Gerashchenko_Lab10\FileService\bin\Debug\netcoreapp3.1\FileService.dll
+C:\Users\37544\Desktop\Work\053505\second_course\CSharp\CSharp_053505_Gerashchenko_Lab10\FileService\bin\Debug\netcoreapp3.1\FileService.pdb
+C:\Users\37544\Desktop\Work\053505\second_course\CSharp\CSharp_053505_Gerashchenko_Lab10\FileService\obj\Debug\netcoreapp3.1\FileService.csprojAssemblyReference.cache
+C:\Users\37544\Desktop\Work\053505\second_course\CSharp\CSharp_053505_Gerashchenko_Lab10\FileService\obj\Debug\netcoreapp3.1\FileService.AssemblyInfoInputs.cache
+C:\Users\37544\Desktop\Work\053505\second_course\CSharp\CSharp_053505_Gerashchenko_Lab10\FileService\obj\Debug\netcoreapp3.1\FileService.AssemblyInfo.cs
+C:\Users\37544\Desktop\Work\053505\second_course\CSharp\CSharp_053505_Gerashchenko_Lab10\FileService\obj\Debug\netcoreapp3.1\FileService.csproj.CoreCompileInputs.cache
+C:\Users\37544\Desktop\Work\053505\second_course\CSharp\CSharp_053505_Gerashchenko_Lab10\FileService\obj\Debug\netcoreapp3.1\FileService.dll
+C:\Users\37544\Desktop\Work\053505\second_course\CSharp\CSharp_053505_Gerashchenko_Lab10\FileService\obj\Debug\netcoreapp3.1\FileService.pdb

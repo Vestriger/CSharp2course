@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfHeatedBuilding xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HeatedBuilding>
+    <PowerConsumption>0</PowerConsumption>
+  </HeatedBuilding>
+  <HeatedBuilding>
+    <PowerConsumption>1</PowerConsumption>
+  </HeatedBuilding>
+  <HeatedBuilding>
+    <PowerConsumption>2</PowerConsumption>
+  </HeatedBuilding>
+  <HeatedBuilding>
+    <PowerConsumption>3</PowerConsumption>
+  </HeatedBuilding>
+  <HeatedBuilding>
+    <PowerConsumption>4</PowerConsumption>
+  </HeatedBuilding>
+</ArrayOfHeatedBuilding>

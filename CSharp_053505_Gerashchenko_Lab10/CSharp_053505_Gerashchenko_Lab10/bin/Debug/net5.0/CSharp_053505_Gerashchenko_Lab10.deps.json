@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CSharp_053505_Gerashchenko_Lab10/1.0.0": {
+        "dependencies": {
+          "FileService": "1.0.0"
+        },
+        "runtime": {
+          "CSharp_053505_Gerashchenko_Lab10.dll": {}
+        }
+      },
+      "FileService/1.0.0": {
+        "runtime": {
+          "FileService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharp_053505_Gerashchenko_Lab10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FileService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\37544\Desktop\Work\053505\second_course\CSharp\CSharp_053505_Gerashchenko_Lab11\Integral\bin\Debug\netcoreapp3.1\Integral.deps.json
+C:\Users\37544\Desktop\Work\053505\second_course\CSharp\CSharp_053505_Gerashchenko_Lab11\Integral\bin\Debug\netcoreapp3.1\Integral.dll
+C:\Users\37544\Desktop\Work\053505\second_course\CSharp\CSharp_053505_Gerashchenko_Lab11\Integral\bin\Debug\netcoreapp3.1\Integral.pdb
+C:\Users\37544\Desktop\Work\053505\second_course\CSharp\CSharp_053505_Gerashchenko_Lab11\Integral\obj\Debug\netcoreapp3.1\Integral.csprojAssemblyReference.cache
+C:\Users\37544\Desktop\Work\053505\second_course\CSharp\CSharp_053505_Gerashchenko_Lab11\Integral\obj\Debug\netcoreapp3.1\Integral.AssemblyInfoInputs.cache
+C:\Users\37544\Desktop\Work\053505\second_course\CSharp\CSharp_053505_Gerashchenko_Lab11\Integral\obj\Debug\netcoreapp3.1\Integral.AssemblyInfo.cs
+C:\Users\37544\Desktop\Work\053505\second_course\CSharp\CSharp_053505_Gerashchenko_Lab11\Integral\obj\Debug\netcoreapp3.1\Integral.csproj.CoreCompileInputs.cache
+C:\Users\37544\Desktop\Work\053505\second_course\CSharp\CSharp_053505_Gerashchenko_Lab11\Integral\obj\Debug\netcoreapp3.1\Integral.dll
+C:\Users\37544\Desktop\Work\053505\second_course\CSharp\CSharp_053505_Gerashchenko_Lab11\Integral\obj\Debug\netcoreapp3.1\Integral.pdb
